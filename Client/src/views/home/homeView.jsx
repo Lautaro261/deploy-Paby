@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "../../components/Navbar/Navbar";
 import Footer from "../../components/Footer/Footer";
-import Dash from "../../components/dashboard/dash";
+import Dash from "../../components/dashboard/Dash";
 import Home from "../../components/Home/Home";
 import style from "./home.module.css"
 

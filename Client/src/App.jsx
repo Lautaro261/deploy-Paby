@@ -11,7 +11,7 @@ import AboutUs from './components/AboutUs/AboutUs';
 import Navbar from './components/Navbar/Navbar';
 //import Home from "./components/Home/Home.jsx"
 import axios from 'axios';
-axios.defaults.baseURL = 'http://localhost:3001/';
+axios.defaults.baseURL = 'https://deploy-paby-production.up.railway.app/';
 
 
 
